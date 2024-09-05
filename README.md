@@ -1,5 +1,5 @@
 # Portfolio.SampleDM
-# Your Name, Cybersecurity Professional !(headshot) (/assets/img
+# Your Name, Cybersecurity Professional !(headshot) (/assets/img/headshotex.jpg)
 
 ### Cybersecurity Portfolio Selected Work
 
